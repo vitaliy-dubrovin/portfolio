@@ -12,7 +12,7 @@ To visit the website, [click here](https://vitaliy-dubrovin.github.io/portfolio/
 
 ## Contents
 Vitalii Dubrovin's portfolio 
-* CV link
+* Resume link
 * About me
 * Experience
 * Education
