@@ -1,7 +1,7 @@
 # Software tester | QA engineer Portfolio
 
 To visit the website, [click here](https://vitaliy-dubrovin.github.io/portfolio/).
-![Test run demo](/demo portfolio.gif "Test run demo")
+![Test run demo](./demo portfolio.gif "Test run demo")
 
 ## Features
 
